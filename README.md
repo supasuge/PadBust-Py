@@ -82,11 +82,11 @@ pip install requests
 
 ```bash
 # Clone the repository (if applicable)
-git clone https://github.com/yourusername/padbustpy.git
-cd padbustpy
+git clone https://github.com/supasuge/PadBust-Py.git
+cd PadBust-Py && chmod +x padbustpy.py
 
 # Or download directly
-wget https://raw.githubusercontent.com/yourusername/padbustpy/main/padbustpy.py
+wget https://raw.githubusercontent.com/supasuge/PadBust-Py/main/padbustpy.py
 chmod +x padbustpy.py
 ```
 
